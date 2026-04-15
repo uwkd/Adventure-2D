@@ -12,9 +12,9 @@ public class BackgroundScroll : MonoBehaviour
 
     void Update()
     {
-        // Tính toán độ lệch của ảnh theo thời gian
+
         Vector2 offset = new Vector2(Time.time * scrollSpeed, 0);
-        // Cập nhật nó vào Material của vật thể
+
         meshRenderer.material.mainTextureOffset = offset;
     }
 }
