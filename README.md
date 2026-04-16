@@ -38,5 +38,5 @@ https://github.com/user-attachments/assets/1821b711-b0fb-43a1-8012-3d000d832377
 ## 📬 LIÊN HỆ
 * **Họ tên**: Dương Thuỳ Trang
 * **Gmail**: dttrangnb1801@gmail.com
-* **Linkedln**: <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+* **Linkedln**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dương%20Trang-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wkdtomar)
 * **Vị trí mong muốn**: Game Tester / Quality Control Internship
