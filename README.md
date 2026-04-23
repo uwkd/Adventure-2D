@@ -18,13 +18,6 @@ Dự án được phát triển trong quá trình học tập và nghiên cứu 
 
 ---
 
-## 🧪 GÓC NHÌN TESTER (QC TESTING)
-Với mục tiêu trở thành một **Game Tester/QC**, mình đã thực hiện kiểm thử các trường hợp sau:
-1. **Va chạm (Collision)**: Đảm bảo nhân vật không bị kẹt khi đi qua các khe hở giữa các ô Tilemap (sử dụng *Composite Collider 2D*).
-2. **Logic Item**: Test trường hợp nhân vật chạm vào item từ nhiều hướng khác nhau, đảm bảo hàm `Destroy` và cộng điểm hoạt động đúng 1 lần duy nhất.
-3. **Vật lý**: Kiểm tra lực nhảy (`Jump Force`) để đảm bảo người chơi có thể vượt qua các chướng ngại vật một cách hợp lý.
-
----
 
 ## 📸 HÌNH ẢNH MINH HỌA
 
@@ -39,4 +32,4 @@ https://github.com/user-attachments/assets/1821b711-b0fb-43a1-8012-3d000d832377
 * **Họ tên**: Dương Thuỳ Trang
 * **Gmail**: dttrangnb1801@gmail.com
 * **Linkedln**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dương%20Trang-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wkdtomar)
-* **Vị trí mong muốn**: Game Tester / Quality Control Internship
+* **Vị trí mong muốn**: Playable Ads
