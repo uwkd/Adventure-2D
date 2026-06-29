@@ -17,20 +17,20 @@ Dự án được phát triển trong quá trình học tập và nghiên cứu 
 * **Thiết kế**: Tilemap 2D, Sprites, Animations
 
 ---
-# BÁO CÁO KIỂM THỬ (TEST REPORT) 
-## 1. Phạm vi kiểm thử (Scope of Testing)
+# BÁO CÁO KIỂM THỬ 
+## 1. Phạm vi kiểm thử 
 * **Đối tượng:** Các tính năng tương tác logic, điều hướng và hệ thống xử lý va chạm cơ bản.
 * **Phương pháp:** Manual Testing (Kiểm thử thủ công).
 
-## 2. Kịch bản kiểm thử tiêu biểu (Sample Test Cases)
+## 2. Kịch bản kiểm thử tiêu biểu 
 
-| Đang test cái gì (Feature) | Các bước thực hiện (Steps) | Kết quả mong đợi (Expected Result) | Trạng thái (Status) |
+| Test | Các bước thực hiện  | Kết quả mong đợi  | Trạng thái  |
 | :--- | :--- | :--- | :--- |
 | **Hệ thống điều hướng** | Nhấn phím di chuyển trái/phải/nhảy | Nhân vật phản hồi mượt mà, đúng hướng | **Passed** |
 | **Xử lý va chạm** | Điều khiển nhân vật va chạm với vật cản | Nhân vật bị chặn lại, không xuyên qua vật cản | **Passed** |
 | **Kiểm thử vùng biên** | Điều khiển nhân vật di chuyển sát góc tường | Nhân vật dừng lại đúng biên, không bị kẹt tọa độ | **Passed** |
 
-## 3. Nhật ký quản lý lỗi (Bug Log)
+## 3. Nhật ký quản lý lỗi 
 
 * **Bug #01: Lỗi kẹt tọa độ khi rơi tự do tốc độ cao**
   * *Mô tả:* Khi nhân vật rơi từ độ cao lớn sát mép vật cản, hệ thống xử lý va chạm bị chậm dẫn đến nhân vật bị lún/kẹt vào vật cản.
