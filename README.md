@@ -1,5 +1,5 @@
 # 🎮 ADVENTURE 2D
-Dự án được phát triển trong quá trình học tập và nghiên cứu về Unity Engine của mình. Đây là nơi mình lưu lại các cột mốc phát triển và các tính năng cốt lõi của game.
+Dự án được phát triển trong quá trình học tập và nghiên cứu về Unity Engine.
 
 ## 🚀 TIẾN ĐỘ PHÁT TRIỂN (ROADMAP)
 - [x] **Di chuyển vật lý**: Nhân vật di chuyển mượt mà bằng `Rigidbody2D`.
